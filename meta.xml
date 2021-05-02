@@ -1,0 +1,16 @@
+<meta>
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="files/myriadproregular.ttf" />
+    <file src="files/siren.png" />
+    <file src="files/sirenoff.png" />
+    <file src="files/siren1.png" />
+    <file src="files/police_siren_2.wav" />
+    <file src="files/police_siren.mp3" />
+    <file src="files/omsz_siren.wav" />
+    <file src="files/horn.mp3" />
+    <file src="files/horn.png" />
+    
+    <oop>true</oop>
+</meta>
